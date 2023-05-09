@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a react Book Search App Engine that can keep a list of books to purchase.
+This is a react Book Search App Engine where you can save your favorite books.
 
 ## Acceptance Criteria
 
